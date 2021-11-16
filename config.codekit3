@@ -24,16 +24,6 @@
       "oA" : 0,
       "oAP" : "\/hexmap.html",
       "oF" : 0
-    },
-    "\/SEAFWA-SVG.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/SEAFWA-SVG.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
     }
   },
   "hooks" : [
